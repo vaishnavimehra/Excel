@@ -1,4 +1,4 @@
- 🍕 Pizza Sales Analysis & Interactive Dashboard
+ **🍕 Pizza Sales Analysis & Interactive Dashboard**
 
 1. **Project Title / Headline**
 
