@@ -5,6 +5,7 @@
 
 Pizza Sales Analysis & Interactive Dashboard using Excel and MySQL
 
+
 2.**Short Description / Project Overview**
 
 Developed an interactive Pizza Sales Analysis Dashboard to analyze sales performance, customer ordering patterns, product demand, and revenue trends. The project involved transforming raw pizza sales data into meaningful business insights using Excel and MySQL.
@@ -16,6 +17,7 @@ The dashboard provides a clear overview of key performance indicators such as To
 - Microsoft Excel – Data cleaning, analysis, PivotTables, PivotCharts, slicers, and dashboard creation
 - MySQL – Data querying and exploratory analysis
 - SQL – Aggregations, filtering, grouping, sorting, joins, and date/time-based analysis
+
 
 4.**Data Source**
 
@@ -32,6 +34,7 @@ Pizza Sales Dataset containing transactional information such as:
 - Total Price
 
 The raw dataset was cleaned and analyzed to identify sales trends and business performance metrics.
+
 
 5.**Features / Highlights**
 
@@ -93,6 +96,7 @@ The analysis helps identify:
 - Top-selling products
 - Revenue and order trends
 - Products requiring further business attention
+
 
 6.**Project Outcome**
 
